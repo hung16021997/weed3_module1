@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00da7dfd-8b88-4f40-a247-e18c1bcad8ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TH_tim_gia_tri_array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_dao_phan_tu_array.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -79,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TH_tim_gia_tri_array.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
               <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TH_dao_phan_tu_array.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -111,12 +120,13 @@
         <option value="$PROJECT_DIR$/TH_tim_Min_array.html" />
         <option value="$PROJECT_DIR$/TH_tim_max_array.html" />
         <option value="$PROJECT_DIR$/TH_tim_gia_tri_array.html" />
+        <option value="$PROJECT_DIR$/TH_dao_phan_tu_array.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="700" />
-    <option name="y" value="154" />
+    <option name="x" value="288" />
+    <option name="y" value="101" />
     <option name="width" value="1132" />
     <option name="height" value="975" />
   </component>
@@ -171,18 +181,17 @@
       <workItem from="1589442051570" duration="627000" />
       <workItem from="1589443635254" duration="1074000" />
       <workItem from="1589446682070" duration="1087000" />
-      <workItem from="1589477628627" duration="1663000" />
+      <workItem from="1589477628627" duration="2460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4451000" />
+    <option name="totallyTimeSpent" value="5248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="700" y="154" width="1132" height="975" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1125" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1710171" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10005266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,7 +203,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28121927" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -277,6 +286,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TH_dao_phan_tu_array.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
