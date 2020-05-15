@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hàm kiểm tra số nguyên tố</title>
+</head>
+<body>
+<script>
+    let num = Number(prompt("Nhập số: "));
+    function soNguyuenTo(number) {
+        let sum = true;
+        if(number==1) sum = false;
+        else if(number>3)
+            for (let i = 2; i <= Math.sqrt(number); i++)
+                if (number % i == 0){
+                    sum = false;
+                    break;
+                }
+        return sum;
+    }
+    if(soNguyuenTo(num))
+        alert(""+num+" là số nguyên tố!");
+    else
+        alert(""+num+" không phải số nguyên tố!");
+</script>
+</body>
+</html>
