@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tìm số nguyên nhỏ nhất</title>
+</head>
+<body>
+<script>
+    let x = Number(prompt('Mời nhập giá trị 1:'));
+    let y = Number(prompt('Mời nhập giá trị 2:'));
+    let z = Number(prompt('Mời nhập giá trị 3:'));
+    function soSanh() {
+        let min = x;
+        if (min > y) {
+            min = y;
+            if (min > z) {
+                min = z;
+            }
+        } else if (min > z) {
+            min = z;
+        }
+        return min;
+    }
+    alert(soSanh(x,y,z));
+</script>
+</body>
+</html>

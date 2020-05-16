@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 2</title>
+</head>
+<body>
+<input type="text" id="number" name="radius"/>
+<p id="dientich">Diện tích hình tròn: </p>
+<p id="chuvi">Chu vi hình tròn: </p>
+<button onclick="tinh()" type="button">Kết quả</button>
+<script>
+    function tinh() {
+        let x = document.getElementById('number').value;
+        let dientich = Math.pow(x,2)*Math.PI;
+        let chuvi = 2*x*Math.PI;
+        document.getElementById('dientich').innerHTML += dientich;
+        document.getElementById('chuvi').innerHTML += chuvi;
+    }
+</script>
+</body>
+</html>

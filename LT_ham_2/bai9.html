@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 9</title>
+</head>
+<body>
+<script>
+    let mang = [12,3,4,5,1,2,4,51,2121,4213,223,31,5,5,5,];
+    let a = parseInt(prompt('Nhập vào 1 số bất kỳ'));
+    function check() {
+        let count = 0;
+        for (i=0;i<mang.length;i++) {
+            if (a===mang [i]) {
+                count = count+1;
+            }
+        }
+        if (count === 0) {
+            return -1;
+        } else {
+            return count;
+        }
+    }
+    document.write(check());
+</script>
+</body>
+</html>

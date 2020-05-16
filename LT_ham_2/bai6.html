@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kiểm tra số nguyên dương</title>
+</head>
+<body>
+<script>
+    let x = parseInt(prompt('Nhập vào 1 số bất kỳ'));
+    function check() {
+        let flag = false;
+        if (x > 0) {
+            flag = true;
+        }
+        return flag;
+    }
+    document.write(check(x));
+</script>
+</body>
+</html>

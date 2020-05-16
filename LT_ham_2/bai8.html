@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Đảo ngược mảng</title>
+</head>
+<body>
+<script>
+    let mang = [1,2,3,4,5,6];
+    let n = parseInt(prompt('Nhập vào 1 số bất kì'));
+    mang.push(n);
+    function daoNguoc(arr) {
+        let temp = 0;
+        let first = 0;
+        let last = mang.length -1;
+        while (first<last) {
+            temp = mang[first];
+            mang[first] = mang[last];
+            mang[last] = temp;
+            first++;
+            last--;
+        }
+        return arr;
+    }
+    alert(daoNguoc(mang));
+</script>
+</body>
+</html>

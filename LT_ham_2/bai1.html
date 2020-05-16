@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 1</title>
+</head>
+<body>
+<input type="text" id="number"/>
+<p id="result">Kết quả: </p>
+<button onclick="pow()" type="button">Click</button>
+<script>
+    function pow() {
+        let x = document.getElementById('number').value;
+        let result = Math.pow(x,2);
+        document.getElementById('result').innerHTML += result;
+    }
+</script>
+</body>
+</html>
