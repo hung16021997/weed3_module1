@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tìm V trong 1 mảng</title>
+</head>
+<body>
+<script>
+    let A = [1,2,3,4,5,6,7,8,9,10];
+    let V = parseInt(prompt("Nhập 1 số V bất kì"));
+    let check = true;
+    for (i=0;i<A.length;i++) {
+        if (A[i]===V) {
+            check = i;
+            break;
+        }
+    }
+    if (check === true) {
+        alert("V is not in the array");
+    } else {
+        alert("V is in the array");
+    }
+</script>
+</body>
+</html>

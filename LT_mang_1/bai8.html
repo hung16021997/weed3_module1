@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sắp xếp mảng theo thứ tự giảm dần</title>
+</head>
+<body>
+<script>
+    let mang = [1,22,43,53,32,75,45,234,545];
+    document.write("Mảng đã cho: "+mang+"<br/>");
+    let array = Array();
+    function deleteElement(n) {
+        for(j=n+1;j<mang.length;j++){
+            mang[j-1]=mang[j];
+        }
+        mang.pop();
+    }
+    while (mang.length>0) {
+        let max = mang[0];
+        let index = 0;
+        for (let i = 0; i < mang.length; i++) { //Tim giá trị max trong mảng
+            if (mang[i] >= max) {
+                max = mang[i];
+                index = i;
+            }
+        }
+        deleteElement(index);
+        array.push(max);
+    }
+    document.write("Mảng sau khi sắp xếp giảm dần: "+array)
+</script>
+</body>
+</html>

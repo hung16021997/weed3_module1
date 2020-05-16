@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00da7dfd-8b88-4f40-a247-e18c1bcad8ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LT_vong_lap_2/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_vong_lap_2/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_vong_lap_2/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_vong_lap_2/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_vong_lap_2/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,43 +24,52 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_1/bai4.html">
+        <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="199">
+              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_1/bai5.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="184">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_1/bai6.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="199">
+              <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_1/bai7.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="84">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_1/bai8.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai5.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
               <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
@@ -66,46 +78,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai1.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="193">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai2.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="184">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai3.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="184">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai5.html">
+        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai9.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+            <state relative-caret-position="92">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -125,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bang_cuu_chuong.html" />
-        <option value="$PROJECT_DIR$/TH_thao_tac_voi_mang.html" />
         <option value="$PROJECT_DIR$/TH_chuye_doi_nhiet_do.html" />
         <option value="$PROJECT_DIR$/TH_tao_va_goi_ham.html" />
         <option value="$PROJECT_DIR$/TH_tao_ban_co_don_gian.html" />
@@ -169,6 +170,15 @@
         <option value="$PROJECT_DIR$/LT_vong_lap_2/bai3.html" />
         <option value="$PROJECT_DIR$/LT_vong_lap_2/bai4.html" />
         <option value="$PROJECT_DIR$/LT_vong_lap_2/bai5.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai1.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai2.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai3.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai4.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai5.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai6.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai7.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai8.html" />
+        <option value="$PROJECT_DIR$/LT_mang_1/bai9.html" />
       </list>
     </option>
   </component>
@@ -195,27 +205,7 @@
             <path>
               <item name="module1" type="b2602c69:ProjectViewProjectNode" />
               <item name="module1" type="462c0819:PsiDirectoryNode" />
-              <item name="BT_hien_thi_so_nguyen_to" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module1" type="462c0819:PsiDirectoryNode" />
-              <item name="LT_ham_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module1" type="462c0819:PsiDirectoryNode" />
-              <item name="LT_ham_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module1" type="462c0819:PsiDirectoryNode" />
-              <item name="LT_vong_lap_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="module1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="module1" type="462c0819:PsiDirectoryNode" />
-              <item name="LT_vong_lap_2" type="462c0819:PsiDirectoryNode" />
+              <item name="LT_mang_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,16 +250,15 @@
       <workItem from="1589511534455" duration="280000" />
       <workItem from="1589534463111" duration="1055000" />
       <workItem from="1589618566990" duration="3033000" />
-      <workItem from="1589648139419" duration="3050000" />
+      <workItem from="1589648139419" duration="4191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14809000" />
+    <option name="totallyTimeSpent" value="15950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="738" y="103" width="1132" height="975" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1710171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -313,20 +302,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bang_cuu_chuong.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_thao_tac_voi_mang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TH_chuye_doi_nhiet_do.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -612,8 +587,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="199">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_1/bai9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Khởi tạo mảng</title>
+</head>
+<body>
+<script>
+    let array = [1,2,3,4,5,11,22,33,44,55];
+    document.write("Các phần tử trong mảng: " + array + "<br/>");
+    let array10 = [];
+    let j=0;
+    for (i=0;i<array.length;i++) {
+        if (array[i]>=10) {
+            array10[j] = array[i];
+            j++
+        }
+    } document.write("Các phần tử trong mảng trên lớn hơn hoặc bằng 10: " + array10);
+</script>
+</body>
+</html>
