@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 5</title>
+</head>
+<body>
+<input id="search" type="text"/>
+<button onclick="check()">Check</button>
+<script>
+    let star = ['Polaris','Aldebaran', 'Deneb', 'Vega', 'Altair', 'Dubhe','Regulus'];
+    let constellation = ['Ursa Minor','arurus', 'Cygnus', 'Lyra', 'Aquila', 'Ursa Major', 'Leo'];
+    function check() {
+        let search = document.getElementById('search').value;
+        let j;
+        for (i=0;i<star.length;i++) {
+            if (star[i] === search) {
+                j = i;
+            }
+        }
+        if (j===-1) {
+            document.write('Không tìm thấy');
+        } else {
+            document.write(star[j]+' thuộc chòm sao '+constellation[j]);
+        }
+    }
+</script>
+</body>
+</html>
