@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00da7dfd-8b88-4f40-a247-e18c1bcad8ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LT_mang_1/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_2/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_2/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_2/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LT_mang_2/bai5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,51 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_vong_lap_2/bai5.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LT_mang_1/bai4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LT_mang_1/bai5.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,17 +50,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LT_mang_1/bai8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="117">
               <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LT_mang_1/bai9.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="460">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LT_mang_2/bai1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LT_mang_2/bai2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LT_mang_2/bai3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LT_mang_2/bai4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LT_mang_2/bai5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -128,11 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TH_chuye_doi_nhiet_do.html" />
-        <option value="$PROJECT_DIR$/TH_tao_va_goi_ham.html" />
-        <option value="$PROJECT_DIR$/TH_tao_ban_co_don_gian.html" />
-        <option value="$PROJECT_DIR$/TH_tim_Min_array.html" />
-        <option value="$PROJECT_DIR$/TH_tim_max_array.html" />
         <option value="$PROJECT_DIR$/TH_tim_gia_tri_array.html" />
         <option value="$PROJECT_DIR$/TH_dao_phan_tu_array.html" />
         <option value="$PROJECT_DIR$/BT_su_dung_ham_co_san/bai1.html" />
@@ -179,6 +171,11 @@
         <option value="$PROJECT_DIR$/LT_mang_1/bai7.html" />
         <option value="$PROJECT_DIR$/LT_mang_1/bai8.html" />
         <option value="$PROJECT_DIR$/LT_mang_1/bai9.html" />
+        <option value="$PROJECT_DIR$/LT_mang_2/bai1.html" />
+        <option value="$PROJECT_DIR$/LT_mang_2/bai2.html" />
+        <option value="$PROJECT_DIR$/LT_mang_2/bai3.html" />
+        <option value="$PROJECT_DIR$/LT_mang_2/bai4.html" />
+        <option value="$PROJECT_DIR$/LT_mang_2/bai5.html" />
       </list>
     </option>
   </component>
@@ -205,7 +202,7 @@
             <path>
               <item name="module1" type="b2602c69:ProjectViewProjectNode" />
               <item name="module1" type="462c0819:PsiDirectoryNode" />
-              <item name="LT_mang_1" type="462c0819:PsiDirectoryNode" />
+              <item name="LT_mang_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,15 +247,16 @@
       <workItem from="1589511534455" duration="280000" />
       <workItem from="1589534463111" duration="1055000" />
       <workItem from="1589618566990" duration="3033000" />
-      <workItem from="1589648139419" duration="4191000" />
+      <workItem from="1589648139419" duration="5211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15950000" />
+    <option name="totallyTimeSpent" value="16970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="738" y="103" width="1132" height="975" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1710171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -302,41 +300,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TH_chuye_doi_nhiet_do.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_tao_va_goi_ham.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_tao_ban_co_don_gian.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_tim_Min_array.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TH_tim_max_array.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TH_tim_gia_tri_array.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -643,15 +606,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LT_mang_1/bai8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="117">
           <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LT_mang_1/bai9.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="460">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_2/bai1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_2/bai2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_2/bai3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_2/bai4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LT_mang_2/bai5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>

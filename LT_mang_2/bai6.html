@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai6</title>
+</head>
+<body>
+<script>
+    let str = "Xin-chao";
+    let array = [];
+    let result = "";
+    for(let i =0;i<str.length;i++)
+    {
+        array.push(str.charAt(i));
+    }
+    for(let i=0;i<array.length;i++)
+    {
+        if(array[i]=='-')
+        {
+            array[i]='_';
+        }
+        result+=array[i];
+    }
+    alert(result);
+</script>
+</body>
+</html>
