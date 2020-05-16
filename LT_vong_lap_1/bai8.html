@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Đoán số</title>
+</head>
+<body>
+<script>
+    let a = parseInt(prompt("Vui lòng nhập vào khoảng bạn muốn đoán từ :"));
+    let b = parseInt(prompt(" tới :"));
+    let c = parseInt(a + Math.floor(Math.random()*(b-a)));
+    let d = parseInt(prompt("Vui lòng đoán một số bất kỳ :"));
+    for (i=1;i <=3;i++) {
+        if ( d === c) {
+            alert("Bạn đoán đúng rồi <3");
+            break;
+        } else {
+            d = parseInt(prompt("Vui lòng đoán lại :"));
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FizzBuzz</title>
+</head>
+<body>
+<script>
+    let x = 1;
+    document.write(x);
+    for (i=0;i<99;i++) {
+        x++;
+        if (x%3===0 && x%5===0) {
+            document.write("<br/>"+"FizzBuzz");
+            continue;
+        } else
+        if (x%3===0) {
+            document.write("<br/>"+"Fizz");
+            continue;
+        } else if (x%5===0) {
+            document.write("<br/>"+"Buzz");
+            continue;
+        }
+        document.write("<br/>"+ x);
+    }
+
+</script>
+</body>
+</html>
