@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tính lãi ngân hàng</title>
+</head>
+<body>
+<h2>Tính lãi suất vay ngân hàng</h2>
+<label for="money">Số tiền muốn vay (VND): </label>
+<input id="money" type="text"/><br/><br/>
+Kỳ hạn vay (tháng):
+<select id="kyhan">
+    <option value="1month">1 tháng</option>
+    <option value="3month">3 tháng</option>
+    <option value="6month">6 tháng</option>
+    <option value="9month">9 tháng</option>
+    <option value="12month">12 tháng</option>
+</select>
+<br/><br/>
+<button onclick="ketQua()">Tính</button>
+<br/>
+<p id="laisuat">Lãi suất (%): </p>
+<p id="tienlai">Tiền lãi phải trả (VND): </p>
+<script>
+    function ketQua() {
+        let m = document.getElementById('money').value;
+        let k = document.getElementById('kyhan').value;
+        let i;
+        if (k === "1month") {
+            i = 0.02;
+        }
+        if (k === "3month") {
+            i = 0.035;
+        }
+        if (k === "6month") {
+            i = 0.06;
+        }
+        if (k === "9month") {
+            i = 0.085;
+        }
+        if (k === "12month") {
+            i = 0.11;
+        }
+        let total = m*i;
+        document.getElementById('laisuat').innerHTML += i*100;
+        document.getElementById('tienlai').innerHTML += total;
+    }
+</script>
+</body>
+</html>

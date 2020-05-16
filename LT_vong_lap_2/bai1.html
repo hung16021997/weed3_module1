@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hiển thị số fibonacci</title>
+</head>
+<body>
+<p id="result">Dãy số fibonacci cần tìm:</p>
+<script>
+    let n = Number(prompt("Nhập số lượng số fibonacci cần hiển thị:"));
+    let x0=0,x1=1;
+    let a=0;
+    let j=0;
+    let array = Array();
+    for (i=0;i<n;i++) {
+        j=x1+x0;
+        array[a]=j;
+        a++;
+        x0=x1;
+        x1=j;
+    }
+    document.getElementById('result').innerHTML += array;
+</script>
+</body>
+</html>
