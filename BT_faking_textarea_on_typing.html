@@ -1,30 +1,76 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+    <!--<meta charset="UTF-8">-->
+    <!--<title>Title</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--<form name="form"><textarea name="main" onkeydown="typeTextarea()" cols="40" rows="10"></textarea></form>-->
+
+<!--<script>-->
+    <!--let message = "Manchester United" ;-->
+    <!--let text = "";-->
+    <!--function typeTextarea(){-->
+        <!--let len = document.form.main.value.length;-->
+        <!--if(len > 0) {-->
+            <!--for(let i=0; i<len; i++){-->
+                <!--text = text + message[i];-->
+                <!--if(i == message.length) {-->
+                    <!--document.form.main.value = "";-->
+                    <!--text = "";-->
+                <!--}-->
+            <!--}-->
+        <!--}-->
+        <!--document.form.main.value = text;-->
+        <!--text="";-->
+        <!--setTimeout("typeTextarea()", 1);-->
+    <!--}-->
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
 </head>
 <body>
-<form name="form"><textarea name="main" onkeydown="typeTextarea()" cols="40" rows="10"></textarea></form>
+<center>
+    <h2>Type anthing slowly</h2>
+    <form name="form">
+        <textarea name="textarea" cols="40" rows="10"></textarea>
+    </form>
+</center>
 
 <script>
-    let message = "MANCHESTER UNITED";
-    let text = "";
+    var n="", string="TÔI LÀ MỘT TÊN NGỐC!!";
+
     function typeTextarea(){
-        let len = document.form.main.value.length;
-        if(len > 0) {
-            for(let i=0; i<len; i++){
-                text = text + message[i];
-                if(i == message.length) {
-                    document.form.main.value = "";
-                    text = "";
+        t = document.form.textarea.value;
+        j = t.length;
+        if (j > 0)
+        {
+            for(var i=0; i<j; i++)
+            {
+                n = n + string[i];
+
+                // Khi gõ hết chuỗi tự động reset
+                if(i == 21)
+                {
+                    document.form.textarea.value = "";
+                    n = "";
                 }
             }
         }
-        document.form.main.value = text;
-        text="";
+        document.form.textarea.value = n;
+        n="";
         setTimeout("typeTextarea()", 1);
     }
+
+    document.form.textarea.addEventListener('keydown', typeTextarea);
 </script>
 </body>
 </html>
