@@ -1,76 +1,39 @@
-<!--<!DOCTYPE html>-->
-<!--<html lang="en">-->
-<!--<head>-->
-    <!--<meta charset="UTF-8">-->
-    <!--<title>Title</title>-->
-<!--</head>-->
-<!--<body>-->
-<!--<form name="form"><textarea name="main" onkeydown="typeTextarea()" cols="40" rows="10"></textarea></form>-->
-
-<!--<script>-->
-    <!--let message = "Manchester United" ;-->
-    <!--let text = "";-->
-    <!--function typeTextarea(){-->
-        <!--let len = document.form.main.value.length;-->
-        <!--if(len > 0) {-->
-            <!--for(let i=0; i<len; i++){-->
-                <!--text = text + message[i];-->
-                <!--if(i == message.length) {-->
-                    <!--document.form.main.value = "";-->
-                    <!--text = "";-->
-                <!--}-->
-            <!--}-->
-        <!--}-->
-        <!--document.form.main.value = text;-->
-        <!--text="";-->
-        <!--setTimeout("typeTextarea()", 1);-->
-    <!--}-->
-<!--</script>-->
-<!--</body>-->
-<!--</html>-->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Faking Textarea on Typing</title>
 </head>
 <body>
-<center>
-    <h2>Type anthing slowly</h2>
-    <form name="form">
-        <textarea name="textarea" cols="40" rows="10"></textarea>
-    </form>
-</center>
-
-<script>
-    var n="", string="TÔI LÀ MỘT TÊN NGỐC!!";
-
-    function typeTextarea(){
-        t = document.form.textarea.value;
-        j = t.length;
-        if (j > 0)
-        {
-            for(var i=0; i<j; i++)
-            {
-                n = n + string[i];
-
-                // Khi gõ hết chuỗi tự động reset
-                if(i == 21)
-                {
-                    document.form.textarea.value = "";
-                    n = "";
+<form>
+    <h1>Type anything slowly in here</h1>
+    <div>
+        <textarea id="textarea" cols="80px" rows="20px" onkeydown="typeArea()"></textarea>
+    </div>
+</form>
+<script >
+    let txt = "Manchester United !";
+    let txttoarray = [];
+    let display = "";
+    for (let i = 0; i < txt.length; i++) {
+        txttoarray.push(txt.charAt(i));
+    }
+    function typeArea() {
+        let txtarea = document.getElementById("textarea").value;
+        let length = txtarea.length;
+        if (length > 0) {
+            for (let i = 0; i < length; i++) {
+                display += txttoarray[i];
+                if (i === txttoarray.length) {
+                    document.getElementById("textarea").value = "";
+                    display = "";
                 }
             }
+            document.getElementById("textarea").value = display;
+            display = "";
+            setTimeout("typeArea()", 1);
         }
-        document.form.textarea.value = n;
-        n="";
-        setTimeout("typeTextarea()", 1);
     }
-
-    document.form.textarea.addEventListener('keydown', typeTextarea);
 </script>
 </body>
 </html>
