@@ -13,18 +13,25 @@
 <script>
     let eng = ["Good","Bad","Ugly","Dog","Cat","Rat","Money"];
     let vie = ["Tốt","Tồi","Xấu","Chó","Mèo","Chuột","Tiền"];
+    let a = false;
 
     console.log(vie);console.log(vie.length);
     function trans() {
         let word1 = document.getElementById("text").value;
         for (i = 0, j = 0; i < eng.length, j < vie.length; i++, j++) {
             if (word1 === eng[i]) {
+                a=true;
                 alert(vie[j]);
                 break
             } else if (word1 === vie[j]) {
+                a=true;
                 alert(eng[j]);
+
                 break
-            } else alert("We cant find that");
+            }
+        }
+        if(!a){
+            alert("we can find not");
         }
     }
 
